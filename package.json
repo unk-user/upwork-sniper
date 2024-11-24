@@ -1,0 +1,15 @@
+{
+  "name": "upwork-sniper",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.1.13",
+    "@types/node-telegram-bot-api": "^0.64.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
